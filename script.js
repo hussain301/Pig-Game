@@ -1,4 +1,6 @@
 'use strict';
+alert("Game Rules: 1. You can roll as many time as you want if you Hold your score it will be added to your  total score if you keep rolling and you rolled 1 your current score will become zero it will no longer be added to your total score however your totla score will remain same");
+alert("2. who ever reaches the score limit wins the game score limit is 100 points Good luck");
 const Playerwinner = document.querySelector('.player--winner');
 const HoldScore = document.querySelector('.btn--hold');
 const Reset = document.querySelector('.btn--new');
