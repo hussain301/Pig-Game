@@ -5,6 +5,12 @@
   padding: 0;
   box-sizing: inherit;
 }
+.footer{  
+  position: absolute;
+  right: 35rem;
+  top: 58rem;
+  font-size: 1.5rem;
+ } 
 
 .hidden{
   display: none;
